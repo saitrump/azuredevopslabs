@@ -6,7 +6,7 @@ tags: [overview]
 permalink: default.html
 comments: true
 landingpage: false
-description: Learn how you can implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server
+description: Learn how you can implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server. You can read more: https://azuredevopslabs.com/labs/vstsextend/kubernetes/
 ---
 
 <!-- <div class="bg-image">
